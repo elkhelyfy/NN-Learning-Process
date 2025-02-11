@@ -1,2 +1,2 @@
 # NN-Learning-Process
-this is a personnel repo , i don't recommend anyone to learn from it i just make for fun and to try stuff about how machine learning learn and i am challenging myself to make a NN from scratch
+This is a personal repo. I don't recommend anyone to learn from it. I just created it for fun and to experiment with how machine learning learns. I'm also challenging myself to build a neural network from scratch.
